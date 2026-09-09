@@ -6,29 +6,6 @@ O projeto apresenta exemplos simples e práticos de variáveis, operadores, arra
 
 ---
 
-## 📚 Conteúdos estudados
-
-- [Variáveis](#variáveis)
-- [Operadores](#operadores)
-  - [Operadores aritméticos](#operadores-aritméticos)
-  - [Operadores de comparação](#operadores-de-comparação)
-  - [Igualdade estrita](#igualdade-estrita)
-  - [Operadores relacionais](#operadores-relacionais)
-- [Arrays](#arrays)
-- [Objetos](#objetos)
-- [Funções](#funções)
-- [Estruturas condicionais](#estruturas-condicionais)
-  - [`if`, `else if` e `else`](#if-else-if-e-else)
-  - [`switch`](#switch)
-- [Laços de repetição](#laços-de-repetição)
-  - [`for`](#for)
-  - [`while`](#while)
-  - [`forEach`](#foreach)
-- [DOM — Document Object Model](#dom--document-object-model)
-- [Integração entre HTML e JavaScript](#integração-entre-html-e-javascript)
-
----
-
 ## 🔤 Variáveis
 
 Variáveis são utilizadas para armazenar valores que podem ser utilizados durante a execução do programa.
