@@ -6,7 +6,7 @@ O projeto apresenta exemplos simples e práticos de variáveis, operadores, arra
 
 ---
 
-## 📚 Conteudos estudados
+## 📚 Conteúdos estudados
 
 - [Variáveis](#variáveis)
 - [Operadores](#operadores)
