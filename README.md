@@ -1,4 +1,4 @@
-# js4t - Javascript4Testers
+# Javascript4Testers
 
 Projeto de estudos do curso introdutório **Javascript4Testers** da QA Ninja (2021), para praticar os principais conceitos da linguagem e sua integração com páginas HTML por meio do **DOM (Document Object Model)**.
 
