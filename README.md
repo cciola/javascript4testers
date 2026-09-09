@@ -542,64 +542,6 @@ Na página:
 
 ---
 
-## 🎯 Objetivo do projeto
-
-O objetivo deste projeto é servir como material prático de estudo dos fundamentos do JavaScript, permitindo compreender conceitos essenciais antes de avançar para aplicações mais complexas.
-
-Os exemplos também demonstram a interação entre **JavaScript, HTML e DOM**, mostrando como uma aplicação pode receber informações do usuário, processá-las e atualizar a página dinamicamente.
-
----
-
-## 📝 Conceitos principais
-
-Como resumo, os principais conceitos praticados são:
-
-```text
-JavaScript
-│
-├── Variáveis
-│   └── Tipagem dinâmica
-│
-├── Operadores
-│   ├── Aritméticos
-│   ├── Comparação
-│   └── Relacionais
-│
-├── Arrays
-│   ├── push()
-│   ├── pop()
-│   ├── shift()
-│   ├── indexOf()
-│   └── splice()
-│
-├── Objetos
-│   ├── Propriedades
-│   ├── Métodos
-│   └── this
-│
-├── Funções
-│   ├── Parâmetros
-│   └── return
-│
-├── Controle de fluxo
-│   ├── if
-│   ├── else if
-│   ├── else
-│   └── switch
-│
-├── Loops
-│   ├── for
-│   ├── while
-│   └── forEach()
-│
-└── DOM
-    ├── getElementById()
-    ├── value
-    └── append()
-```
-
----
-
 ## 🚀 Próximos passos
 
 Depois dos fundamentos apresentados neste projeto, alguns conceitos que podem ser estudados para evoluir o conhecimento em JavaScript são:
@@ -619,3 +561,27 @@ Depois dos fundamentos apresentados neste projeto, alguns conceitos que podem se
 * Tratamento de exceções
 * Node.js
 * Testes automatizados com JavaScript
+
+---
+
+## 🎯 Objetivo do projeto
+
+O objetivo deste projeto é servir como material prático de estudo dos fundamentos do JavaScript, permitindo compreender conceitos essenciais antes de avançar para aplicações mais complexas.
+
+Os exemplos também demonstram a interação entre **JavaScript, HTML e DOM**, mostrando como uma aplicação pode receber informações do usuário, processá-las e atualizar a página dinamicamente.
+
+Como o estudo da ferramenta é incremental, novos exemplos podem ser adicionados conforme novos recursos forem explorados.
+
+A ideia é manter os códigos como uma **referência rápida** para funcionalidades que podem ser reutilizadas em diferentes scripts de automação.
+
+---
+
+## 🤝 Contribuições
+
+Sugestões, melhorias e novos exemplos são bem-vindos! Caso você tenha alguma dúvida, sugestão ou queira contribuir com o projeto, fique à vontade para entrar em contato.
+
+---
+
+## 📌 Observação
+
+Este repositório foi criado inicialmente como material de estudo e referência pessoal durante o aprendizado do Javascript. Os exemplos aqui apresentados representam funcionalidades que foram exploradas e utilizadas em automações, podendo ser adaptados conforme a necessidade de cada projeto.
